@@ -1,0 +1,64 @@
+.navbar.svelte-ozmsvo {
+    width: 100%
+}
+
+.content {
+    overflow-y: hidden;
+}
+
+nav.svelte-ozmsvo {
+    font-family: "PTRootUIMedium";
+    background: #292929;
+    padding: 5px 60px;
+    width: 100%;
+    z-index: 20;
+    align-items: center
+}
+
+@media(max-width: 767px) {
+    nav.svelte-ozmsvo {
+        padding-right: 30px;
+        padding-left: 30px
+    }
+}
+
+.navbar-menu.svelte-ozmsvo {
+    background-color: #292929 !important
+}
+
+a.svelte-ozmsvo {
+    font-size: 0.9rem;
+    font-family: "PTRootUIMedium"
+}
+
+a.navbar-item.svelte-ozmsvo {
+    color: white
+}
+
+a.navbar-item.svelte-ozmsvo:hover {
+    color: #999
+}
+
+.is-light.svelte-ozmsvo:hover {
+    background-color: #cccccc
+}
+
+.container.svelte-1ni989b {
+    padding-top: 122px;
+    min-height: 100vh
+}
+
+section.svelte-1ni989b {
+    background: #f7faff
+}
+
+.notification.svelte-1ni989b {
+    padding: 2.5rem;
+    background: white;
+    height: fit-content
+}
+
+.button.svelte-1ni989b {
+    color: #3273dc;
+    border: none
+}
